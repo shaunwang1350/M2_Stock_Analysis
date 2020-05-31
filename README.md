@@ -1,6 +1,5 @@
-# M2_Stock_Analysis
-
-### Challenge
+# Challenge 
+## M2_Stock_Analysis
 
 In this Challenge, we are asked to refactor existing code that is provided to us. 
 
